@@ -1,0 +1,2 @@
+text-classification-train.csv -< Veri_Analizi_Okulu_Yapay_Zeka_Dil_Modelleri_(Tüm) notebook'taki veri seti dosyası, Colab ortamınıza yükleyerek kullanabilirsiniz.
+adapter -< Veri_Analizi_Okulu_Yapay_Zeka_Dil_Modelleri_(Tüm) notebook'taki fine-tune ettiğimiz modelin eğitilmiş LoRA ağırlıkları. Eğitimi kendi ortamınızda yaptığınızda eğitilmiş modeli save ettikten sonra lokale indirerek, gguf'a çevirdikten sonra Ollama üstünde kullanabilirsiniz. Detaylar notebook'ta
